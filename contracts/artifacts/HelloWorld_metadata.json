@@ -58,7 +58,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/HelloWorld.sol": "HelloWorld"
+			"contracts/Hello_World.sol": "HelloWorld"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -72,7 +72,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/HelloWorld.sol": {
+		"contracts/Hello_World.sol": {
 			"keccak256": "0xf25bb48db6d527652fa64456b2750edf4ef7136fefa3353f23c5d22cb60d8562",
 			"license": "GPL-3.0",
 			"urls": [
